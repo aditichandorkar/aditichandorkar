@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditichandorkar&label=Profile%20views&color=0e75b6&style=flat" alt="aditichandorkar" /> </p>
 
-- 🌱 I’m currently learning **React.js, AI**
+
 
 - 📫 How to reach me **aditi.chandorkar14@gmail.com**
 
